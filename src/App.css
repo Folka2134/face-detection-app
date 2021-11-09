@@ -15,3 +15,14 @@
   display: flex;
   justify-content: center;
 }
+
+/* LOGO */
+
+.logo-container {
+  margin-bottom: 0;
+}
+
+.logo-container img {
+  height: 150px;
+  padding-top: 5px;
+}
